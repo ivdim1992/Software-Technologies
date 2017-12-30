@@ -1,0 +1,144 @@
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.csprojResolveAssemblyReference.cache
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.csproj.CoreCompileInputs.cache
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\ApplicationInsights.config
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csc.exe
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csc.exe.config
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csc.rsp
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csi.exe
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csi.rsp
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.AppContext.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.Collections.Immutable.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.IO.FileSystem.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.Reflection.Metadata.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\vbc.exe
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\vbc.exe.config
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\vbc.rsp
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\VBCSCompiler.exe
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\VBCSCompiler.exe.config
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\LogNoziroh.dll.config
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\LogNoziroh.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\LogNoziroh.pdb
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Antlr3.Runtime.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.SqlServer.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.DependencyCollector.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.Web.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.WindowsServer.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.ApplicationInsights.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.Web.Infrastructure.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Newtonsoft.Json.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Helpers.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Mvc.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Optimization.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Razor.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Deployment.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Razor.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\WebGrease.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.SqlServer.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Helpers.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Mvc.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Optimization.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Razor.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Deployment.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Razor.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Antlr3.Runtime.pdb
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Newtonsoft.Json.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.ApplicationInsights.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.DependencyCollector.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.WindowsServer.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.Web.xml
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.dll
+D:\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.pdb
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\ApplicationInsights.config
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csc.exe
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csc.exe.config
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csc.rsp
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csi.exe
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\csi.rsp
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.AppContext.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\vbc.exe
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\vbc.exe.config
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\vbc.rsp
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\LogNoziroh.dll.config
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\LogNoziroh.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\LogNoziroh.pdb
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Antlr3.Runtime.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.Web.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Newtonsoft.Json.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Helpers.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Mvc.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Optimization.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Razor.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\WebGrease.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Helpers.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Mvc.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Optimization.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.Razor.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Antlr3.Runtime.pdb
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Newtonsoft.Json.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\bin\Microsoft.AI.Web.xml
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.dll
+C:\Users\Ivaylo\Desktop\Software Technologies\ExamTechModule\Skeletons\CSharp-Skeleton\LogNoziroh\obj\Debug\LogNoziroh.pdb
